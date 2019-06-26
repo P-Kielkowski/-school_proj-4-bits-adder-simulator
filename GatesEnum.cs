@@ -15,8 +15,5 @@ namespace Sumator
 		And3,
 		Or1,
 
-		//some change
-		Not1,
-		Not2
 	}
 }
