@@ -13,6 +13,10 @@ namespace Sumator
 		And1,
 		And2,
 		And3,
-		Or1
+		Or1,
+
+		//some change
+		Not1,
+		Not2
 	}
 }
