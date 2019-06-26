@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdderExtension.cs" />
     <Compile Include="Builders\CircuitBuilder.cs" />
     <Compile Include="Builders\AdderBuilder.cs" />
     <Compile Include="Code\Circuit.cs" />
