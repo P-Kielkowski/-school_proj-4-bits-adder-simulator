@@ -17,6 +17,10 @@ namespace Sumator
 
 		//some change
 		Not1,
-		Not2
+		Not2,
+
+		//branch test
+		BranchGate1,
+		BranchGate2
 	}
 }
